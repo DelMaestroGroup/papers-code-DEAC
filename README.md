@@ -1,11 +1,11 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2202.06319-B31B1B.svg)](https://arxiv.org/abs/2202.06319)
 [![DOI](https://zenodo.org/badge/396873415.svg)](https://zenodo.org/badge/latestdoi/396873415)
 
 # A Parameter-Free Differential Evolution Algorithm for the Analytic Continuation of Imaginary Time Correlation Functions
 
 Nathan S. Nichols, Paul Sokol, Adrian Del Maestro
 
-[arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
+[arXiv:2202.06319](https://arxiv.org/abs/2202.06319)
 
 ### Abstract
 We report on Differential Evolution for Analytic Continuation (DEAC): a parameter-free evolutinary algorithm to generate the dynamic structure factor from imaginary time correlation functions. Our approach to this long-standing problem in quantum many-body physics achieves enhanced spectral fidelity while using fewer compute (CPU) hours. The need for fine-tuning of algorithmic control parameters is eliminated by embedding them within the genome to be optimized for this evolutionary computation based algorithm.  Benchmarks are presented for models where the dynamic structure factor is known exactly, and experimentally relevant results are included for quantum Monte Carlo simulations of bulk $^4$He below the superfluid transition temperature. 
